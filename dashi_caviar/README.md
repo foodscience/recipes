@@ -3,7 +3,7 @@
 #### Versions
 
 * [日本語](README.md)
-* [English version](test_English.md)
+* [English version](English.md)
 
 <img src="https://github.com/foodscience/test/blob/master/img/dashi_caviar.jpg" alt="Ruby" title="Ruby" />
 
